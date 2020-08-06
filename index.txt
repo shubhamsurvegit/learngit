@@ -6,4 +6,7 @@ rename ==git mv name new name
 remove == git rm name
 untrack==git rm --cached name
 gives error if that file is not in .gitignore.
- 
+git log -p===kya change hua h along with the commit basically git diff
+-p 2 p-3 last do diff batayega
+ git log --stat ====short summary of diff of commits.
+git log --pretty ====1 line m summary of commits.
