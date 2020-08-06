@@ -2,3 +2,4 @@ this is utilities of code.version 1
 version 2 on
 git diff ==diff btwn staging wkd ie actual content
 git diff--staged ==diff btwn 2 wkd or commits.
+ghgh
