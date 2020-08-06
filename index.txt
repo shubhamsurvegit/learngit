@@ -1,0 +1,9 @@
+version 1 by shubhamdss
+dsd
+h
+.gitignore=write file name in it and that file will not be tracked   no changes made in it will be shown. 
+rename ==git mv name new name
+remove == git rm name
+untrack==git rm --cached name
+gives error if that file is not in .gitignore.
+ 
