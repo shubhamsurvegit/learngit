@@ -1,0 +1,2 @@
+direct commit m mai run nhi hoga
+git commit -a -m "direct commit"
