@@ -17,3 +17,5 @@ git log --since no.ofweeks.weeks
 same for month ,years
 git checkout name === reverts back chages in file if not commited.
 git checkout -f=== reverts back chages in all file if not commited.
+git config --global alias.shortcutname actualcommandname===shortcut deta h bade command ka
+git restore --stage====for unstaged
