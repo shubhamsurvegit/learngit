@@ -2,6 +2,8 @@ version 1 by shubhamdss
 dsd
 h
 .gitignore=write file name in it and that file will not be tracked   no changes made in it will be shown. 
+git diff ==diff btwn staging wkd ie actual content
+git diff--staged ==diff btwn 2 wkd or commits.
 rename ==git mv name new name
 remove == git rm name
 untrack==git rm --cached name
