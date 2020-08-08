@@ -19,3 +19,5 @@ git checkout name === reverts back chages in file if not commited.
 git checkout -f=== reverts back chages in all file if not commited.
 git config --global alias.shortcutname actualcommandname===shortcut deta h bade command ka
 git restore --stage====for unstaged
+git checkout -b develop====master branch se naya branch p jayega.
+git checkout master====normal branch se master branch p vapis ...gitignore ke undar wale files ko kuch pharak nhi padega.
