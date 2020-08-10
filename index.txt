@@ -24,3 +24,4 @@ git checkout -b develop====master branch se naya branch p jayega.
 git checkout master====normal branch se master branch p vapis ...gitignore ke undar wale files ko kuch pharak nhi padega.
 git branch ===branch ke naam dega
 git checkout branchname===go to branch from master.
+git merge branchname===u should be present in that branch where u want to merge the giverbranch in.
