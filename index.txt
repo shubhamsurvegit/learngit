@@ -26,3 +26,5 @@ git branch ===branch ke naam dega
 git checkout branchname===go to branch from master.
 git merge branchname===u should be present in that branch where u want to merge the giverbranch in.
 git branch -d branchnam===delete branch then -d ==-D 
+git branch --merged===merged branched dikkhayega
+git branch --no-merge===jo merged branch nahi h vo dikhega
